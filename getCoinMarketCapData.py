@@ -110,6 +110,7 @@ print('Completed')
 file_ticker.close()
 file_historical.close()
 file_exchange.close()
+file_gecko.close()
 print('Github Push')
 # github push
 repo_dir = ''
