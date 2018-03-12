@@ -1,209 +1,225 @@
 event_date,name,symbol,added_on,description,report_date
-2018-03-13,Ripple,XRP,2018-01-17,"Ripple will be at Money20/20 Asia in Singapore this March.Event will be on March 13-15, 2018.",2018-03-13 01:49:42
-2018-03-13,NEO,NEO,2018-02-09,"March 13 - 15 in Melbourne, Australia",2018-03-13 01:49:42
-2018-03-13,Monaco,MCO,2018-01-23,"Monaco is a speaker and an exhibitor at the upcoming Money 20/20 Asia, the hottest FinTech event.",2018-03-13 01:49:42
-2018-03-14,IOTA,MIOTA,2018-01-29,"Dominik Schiener will be speaking with Ayelet Noff about building a machine economy with IOTA.",2018-03-13 01:49:42
-2018-03-14,BitBay,BAY,2017-12-20,"No additional info",2018-03-13 01:49:42
-2018-03-15,Burst,BURST,2018-01-04,"Dynamic block size and transaction fees, PoC2 protocol, partial Dymaxion code... The fork is planned to happen around block 470 000.",2018-03-13 01:49:42
-2018-03-15,Stellar,XLM,2018-01-26,"The Stellar Build Challenge is an ongoing program to reward innovation and development in the Stellar ecosystem.",2018-03-13 01:49:42
-2018-03-15,TRON,TRX,2018-02-27,"Tron Mascot Contest: submit mascot ideas Feb 26 through Mar 15.",2018-03-13 01:49:42
-2018-03-15,IOStoken,IOST,2018-01-22,""Working hard on releasing our github to the public and you can expect to see our code in the coming weeks. Deadline - early march."",2018-03-13 01:49:42
-2018-03-15,Pundi X,PXS,2018-01-27,"The date and metric of $PXS token split are decided. PXS will swap 1:1000 and become ‘the-new-PXS’ on March 15.",2018-03-13 01:49:42
-2018-03-16,IOTA,MIOTA,2017-12-22,"Presentation of business plans at the Blockchain Business Camp Tokyo.",2018-03-13 01:49:42
-2018-03-16,Einsteinium,EMC2,2018-02-20,"March 16th will be the release date for Weeee Cash.",2018-03-13 01:49:42
-2018-03-16,Einsteinium,EMC2,2018-03-01,"Einsteinium EMC2 social/payment mobile app  release on march 16th.",2018-03-13 01:49:42
-2018-03-17,eBitcoin,EBTC,2018-02-01,"#ePRX #Airdrop for #eBTC holders set for 17th of March, 2018, at 21:00 GCT!",2018-03-13 01:49:42
-2018-03-19,GameCredits,GAME,2018-02-05,"GameCredits attends the Game Developers Conference in San Francisco.",2018-03-13 01:49:42
-2018-03-19,Quantstamp,QSP,2018-01-10,"Quantstamp presenting their prototype at the YCombinator Demo day during March 19-21 at the Computer History Museum in Mountain View, CA",2018-03-13 01:49:42
-2018-03-20,Bytecoin,BCN,2017-12-23,"Release of an absolutely new stable Bytecoin wallet. New design features and a fast synchronized blockchain for Bytecoin users.",2018-03-13 01:49:42
-2018-03-20,Lisk,LSK,2018-01-29,Lisk's Max Kordek will be presenting at the Token20149 event in Hong Kong scheduled for 20th-21st of March 2018.,2018-03-13 01:49:42
-2018-03-21,AppCoins,APPC,2018-01-26,Open source reference implementation of libraries command line tools and SDK for AppCoins developers,2018-03-13 01:49:42
-2018-03-21,Enjin Coin,ENJ,2018-01-26,Update: Blockchain Will Change Virtual Game Items Forever (Presented by Enjin),2018-03-13 01:49:42
-2018-03-22,Cappasity,CAPP,2018-01-09,Token Sale phase 2,2018-03-13 01:49:42
-2018-03-22,Groestlcoin,GRS,2018-01-19,No additional info,2018-03-13 01:49:42
-2018-03-22,Decision Token,HST,2017-12-29,Jamie Skella (Co-Founder of Horizon State) will be presenting at DevOps Talks Conference 22nd-23rd March 2018 Melbourne Australia,2018-03-13 01:49:42
-2018-03-23,Bitcoin Cash,BCH,2018-01-10,Satoshi's Vision Conference 23-25 March 2018 in Tokyo JapanSpeaker list:Roger Ver CEO Bitcoin.comAmaury Séchet Lead Devetc,2018-03-13 01:49:42
-2018-03-23,Eidoo,EDO,2018-01-12,The UbiatarPlay ICO will start on March 23rd exclusively on Eidoo.,2018-03-13 01:49:42
-2018-03-24,Rebellious,REBL,2018-02-17,We have currently set the official date for the launch of our new and improved rebranded website to the March 24th.,2018-03-13 01:49:42
-2018-03-25,NEM,XEM,2018-02-15,March 25 2018 Sunday at 8:00 PM to 10:00 PM.Somewhere Hotel Port Saeed Deira Opposite Deira City Centre Dubai.,2018-03-13 01:49:42
-2018-03-28,Nxt,NXT,2018-02-16,No additional info,2018-03-13 01:49:42
-2018-03-30,ZenCash,ZEN,2017-12-19,No additional info,2018-03-13 01:49:42
-2018-03-31,TRON,TRX,2017-12-29,"The coinburn is confirmed",2018-03-13 01:49:42
-2018-03-31,Voise,VOISE,2018-01-04,No additional info,2018-03-13 01:49:42
-2018-03-31,Ethereum Classic,ETC,2018-01-08,First public release of Emerald Desktop Wallet & Warp sync in Geth,2018-03-13 01:49:42
-2018-03-31,TRON,TRX,2018-01-23,TRON will launch first beta version (Exodus) on Mar 31 2018.,2018-03-13 01:49:42
-2018-03-31,Verge,XVG,2018-01-04,New Website expected Q1 2018,2018-03-13 01:49:42
-2018-03-31,Siacoin,SC,2018-01-02,File contract making upgraded to form 30x faster.,2018-03-13 01:49:42
-2018-03-31,Siacoin,SC,2018-01-02,Ability to recover files your files using only your wallet seed.,2018-03-13 01:49:42
-2018-03-31,Siacoin,SC,2018-01-02,To be released in Q1. Share files with other Sia users.,2018-03-13 01:49:42
-2018-03-31,ReddCoin,RDD,2017-12-18,Gozzy stated on the official ReddCoin Telegram that Redd-ID should be released Q1 2018,2018-03-13 01:49:42
-2018-03-31,Vertcoin,VTC,2017-12-11,Vertbase (vertbase.com) an US-based exchange for Vertcoin and the US Dollar is launching at the end of Q1 2018.,2018-03-13 01:49:42
-2018-03-31,Stratis,STRAT,2017-12-27,Stratis is working on providing a smart contracts solution that will cater for .NET developers.,2018-03-13 01:49:42
-2018-03-31,TRON,TRX,2018-02-12,"The main net of #TRON will be launched in advance from July 1st to May 31st. The test net will be delivered on March 31st. #TRX $TRX",2018-03-13 01:49:42
-2018-03-31,EOS,EOS,2017-12-13,"Dawn 3.0 code is still in Early Alpha [...] it will not be available in a public TestNet until the end of Q1 2018",2018-03-13 01:49:42
-2018-03-31,Stratis,STRAT,2017-12-27,No additional info,2018-03-13 01:49:42
-2018-03-31,NEO,NEO,2017-12-25,This competition has a bounty pool of up to USD 490000. Prize winners will be awarded equivalent amount of bounties in GAS.,2018-03-13 01:49:42
-2018-03-31,IOTA,MIOTA,2017-12-21,"Q1/Q2 2018 is when we start announcing some of the partnerships for AV testbeds.",2018-03-13 01:49:42
-2018-03-31,Stratis,STRAT,2017-12-27,"The Stratis Identity iOS application is currently awaiting approval to be published to the Apple App Store.",2018-03-13 01:49:42
-2018-03-31,IOTA,MIOTA,2018-01-08,Update: The mobile wallet will have a public beta release this quarter with the code being open sourced at the same time.,2018-03-13 01:49:42
-2018-03-31,Monetha,MTH,2017-12-12,"The first product version will be release on the 31st of March". Check the source for proof.,2018-03-13 01:49:42
-2018-03-31,Bitcoin Gold,BTG,2017-12-29,Lightning network will be adopted in the first quarter of 2018,2018-03-13 01:49:42
-2018-03-31,Electra,ECA,2018-01-03,"We are continuing to work diligently - we have so much in store for you in the weeks to come.",2018-03-13 01:49:42
-2018-03-31,Rise,RISE,2017-12-04,"holders will be allocated 20% of all Interlet Tokens" "holders will be given a % of Chipz tokens" "snapshot (Q1 2018)",2018-03-13 01:49:42
-2018-03-31,SunContract,SNC,2018-01-10,Platform and App Release expected for Q1,2018-03-13 01:49:42
-2018-03-31,IOTA,MIOTA,2017-12-29,Omoku will be the first real IOTA/EUR bridge and aims to add more fiat currencies in 2018.,2018-03-13 01:49:42
-2018-03-31,Bitcoin Gold,BTG,2017-12-29,No additional info,2018-03-13 01:49:42
-2018-03-31,Ethos,ETHOS,2017-12-07,"Q1 UW still on schedule",2018-03-13 01:49:42
-2018-03-31,ICON,ICX,2018-01-31,Token Swap and mobile wallet in March 2018.,2018-03-13 01:49:42
-2018-03-31,Bitcoin Gold,BTG,2017-12-29,No additional info,2018-03-13 01:49:42
-2018-03-31,Verge,XVG,2018-02-02,Adding the RSK Smart Contracts to the Vergecurrency technology.,2018-03-13 01:49:42
-2018-03-31,Telcoin,TEL,2018-01-23,The Company announces that one will be able to acquire the TEL from mobile operator directly. This is a new channel.,2018-03-13 01:49:42
-2018-03-31,Golem,GNT,2017-12-19,"We will do the airdrop in Q1 2018 for sure (well) before the Brass mainnet release.",2018-03-13 01:49:42
-2018-03-31,Zero,ZER,2018-01-27,To be listed on one large-sized exchange.,2018-03-13 01:49:42
-2018-03-31,Po.et,POE,2018-01-04,"Po.et releases the official wordpress integration using an open API.",2018-03-13 01:49:42
-2018-03-31,Genesis Vision,GVT,2018-01-20,At the end of Q1 Alpha version of the Genesis Vision application will be launched.,2018-03-13 01:49:42
-2018-03-31,Blockport,BPT,2018-01-25,Launch of 1.0 Beta Version. User can buy sell and store BTC & ETH,2018-03-13 01:49:42
-2018-03-31,AppCoins,APPC,2018-01-11,Release of the first beta version of Aptoide with AppCoins support,2018-03-13 01:49:42
-2018-03-31,Verge,XVG,2018-02-03,Anonymous mobile transactions over the I2P network,2018-03-13 01:49:42
-2018-03-31,FunFair,FUN,2017-12-28,"By the end of March V1 of the FunFair blockchain casino nears completion.",2018-03-13 01:49:42
-2018-03-31,Syscoin,SYS,2018-01-18,Masternodes and Assets the first ICO is due to be launched on the Syscoin platform next month.,2018-03-13 01:49:42
-2018-03-31,Enjin Coin,ENJ,2018-01-01,Unturned Plugin Release,2018-03-13 01:49:42
-2018-03-31,Nebulas,NAS,2018-01-12,The mainnet will  be launched at the end of Q1 2018 and afterwards the swap from erc20 to nebulas blockchain will take place.,2018-03-13 01:49:42
-2018-03-31,FunFair,FUN,2017-12-06,Official Public Release,2018-03-13 01:49:42
-2018-03-31,Enjin Coin,ENJ,2018-01-01,C# & Unity SDK Release (Core Features),2018-03-13 01:49:42
-2018-03-31,HTMLCOIN,HTML,2018-01-23,Beta Testing of a Web Shop using Html coin for companies and freelancers.,2018-03-13 01:49:42
-2018-03-31,Request Network,REQ,2018-01-07,Mainnet release by the end of Q1 2018,2018-03-13 01:49:42
-2018-03-31,Espers,ESP,2017-12-29,Team will release the Whitepaper,2018-03-13 01:49:42
-2018-03-31,Experience Points,XP,2017-12-31,Reward System beta version Release,2018-03-13 01:49:42
-2018-03-31,LUXCoin,LUX,2018-01-11,Update : Q1,2018-03-13 01:49:42
-2018-03-31,Waves,WAVES,2018-01-12,Smart contracts (non-turing) + Hardware wallets shapeshift + Mobile apps update + Decentralized voting + Simple messaging.,2018-03-13 01:49:42
-2018-03-31,Neblio,NEBL,2018-01-05,"We believe that the first step in unlocking the potential of  the Neblio Blockchain in the enterprise world is to make the technology easie,2018-03-13 01:49:42
-2018-03-31,Metal,MTL,2018-01-01,Release of Metal "Pay". This app will allow our users to make payments with just a phone number while being rewarded to use the system.,2018-03-13 01:49:42
-2018-03-31,LUXCoin,LUX,2018-01-03,Activation of Segwit and smart contracts. Update : Q1,2018-03-13 01:49:42
-2018-03-31,SONM,SNM,2018-01-09,February -March 2018,2018-03-13 01:49:42
-2018-03-31,Request Network,REQ,2018-01-07,"This quarter will also be the one where we'll work on potential and important partnerships with accounting payment and audit firms.",2018-03-13 01:49:42
-2018-03-31,Cappasity,CAPP,2018-01-14,Release of Android framework (Feb-March),2018-03-13 01:49:42
-2018-03-31,Cappasity,CAPP,2018-01-14,Cappasity will release their 3D View capturing app for Android (Feb-March),2018-03-13 01:49:42
-2018-03-31,Kyber Network,KNC,2018-01-09,First mainnet launch support trading between tokens and ETH,2018-03-13 01:49:42
-2018-03-31,Cappasity,CAPP,2018-01-14,Plugins for Unity and Unreal Engine will be released in Q1,2018-03-13 01:49:42
-2018-03-31,Triggers,TRIG,2017-12-04,"Estimate of launch is end of 1st quarter of 2018.",2018-03-13 01:49:42
-2018-03-31,Cappasity,CAPP,2018-01-14,Cappasity will release the Mobile capturing SDK (March),2018-03-13 01:49:42
-2018-03-31,Metal,MTL,2018-01-01,"The release of the new website is expected Q1 2018 shortly before the Metal Pay release.",2018-03-13 01:49:42
-2018-03-31,Request Network,REQ,2018-01-07,Integration of BTC and ERC-20 tokens into Request,2018-03-13 01:49:42
-2018-03-31,Bitcoin Gold,BTG,2018-01-24,No additional info,2018-03-13 01:49:42
-2018-03-31,HTMLCOIN,HTML,2018-01-24,Decentralized application that enable us to teach minorities and segregated communities the concepts behind smart contacts.,2018-03-13 01:49:42
-2018-03-31,Request Network,REQ,2018-01-07,Pay with Request project is an online button offering an alternative to the traditional Pay with Paypal and Pay with credit card.,2018-03-13 01:49:42
-2018-03-31,Simple Token,OST,2017-12-29,"In early 2018 we will launch Simple Token alpha which will be the first Simple Token release on top of the OpenST protocol and platform.",2018-03-13 01:49:42
-2018-03-31,Hive,HVN,2018-01-21,"HVN is currently listed on three exchanges and the fourth is planned to be added by the end of Q1/2018",2018-03-13 01:49:42
-2018-03-31,Verge,XVG,2018-02-16,XVGui Miner Official Mining Pool Mining Guide,2018-03-13 01:49:42
-2018-03-31,Telcoin,TEL,2018-02-20,We  are currently in discussion with several exchanges. We are confident [...] at least one new exchange in March.,2018-03-13 01:49:42
-2018-03-31,BitBay,BAY,2017-12-15,No additional info,2018-03-13 01:49:42
-2018-03-31,Nuls,NULS,2018-01-04,Launch of NULS Main Chain,2018-03-13 01:49:42
-2018-03-31,Dent,DENT,2018-01-04,Launching DENT IOS App in Q1 2018,2018-03-13 01:49:42
-2018-03-31,Komodo,KMD,2018-01-15,"We expect to release a new website in Q1. Check out our Marketing Report we released only yesterday. recently released.",2018-03-13 01:49:42
-2018-03-31,Espers,ESP,2018-01-09,Whitepaper Lightweight client & Espers Mobile Wallet App Release,2018-03-13 01:49:42
-2018-03-31,ICON,ICX,2018-02-26,Airdrop will be distributed as mainnet ICX Coins. Entitled to the airdrop are only token sale participants bounty and other event winners.,2018-03-13 01:49:42
-2018-03-31,CanYaCoin,CAN,2018-01-11,Utilising KYC/AML support centres in Europe Southeast Asia North America China and Australia. Canya will launch globally.,2018-03-13 01:49:42
-2018-03-31,Red Pulse,RPX,2018-01-15,The Launch of the new python / Django platform,2018-03-13 01:49:42
-2018-03-31,BitBay,BAY,2017-12-20,Dynamic Peg Test Client Release,2018-03-13 01:49:42
-2018-03-31,HempCoin,THC,2018-02-04,Provide a way for large HempCoin buyers to use BTC to purchase THC manually.,2018-03-13 01:49:42
-2018-03-31,QASH,QASH,2017-12-15,No additional info,2018-03-13 01:49:42
-2018-03-31,Phore,PHR,2017-12-15,In Q1 2018 Phore is launching a decentralized marketplace utilizing OpenBazaar 2.0 code base,2018-03-13 01:49:42
-2018-03-31,Modum,MOD,2018-01-02,MOD will release official announcement of new partnership with 5+billion revenue logistics provider in Q1 2018.,2018-03-13 01:49:42
-2018-03-31,Musicoin,MUSIC,2018-02-28,Musicoin upgrade its blockchain to support enhanced security and more efficient transactions. Hard fork will be triggered at block 2222222,2018-03-13 01:49:42
-2018-03-31,BitBay,BAY,2017-12-20,Release of The Final Smart Contract Templates,2018-03-13 01:49:42
-2018-03-31,PoSW Coin,POSW,2018-02-11,There will be coin swap from POSW to XSN,2018-03-13 01:49:42
-2018-03-31,DubaiCoin,DBIX,2018-03-09,Release of API v2 and Android IOS Desktop wallet.,2018-03-13 01:49:42
-2018-03-31,DeepBrain Chain,DBC,2018-01-13,"DeepBrain Chain platform is officially on the NEO blockchain with all code open sourced and mining software released",2018-03-13 01:49:42
-2018-03-31,Gifto,GTO,2018-01-05,"Beta version : Decentralized GIFTO Protocol in Blockchain working in external environment",2018-03-13 01:49:42
-2018-03-31,Global Currency Reserve,GCR,2018-02-11,New platform launching in Q1 2018,2018-03-13 01:49:42
-2018-03-31,TenX,PAY,2018-01-26,"We'll be live with our new issuer by end of this quarter. then we have to reissue all cards that were already live",2018-03-13 01:49:42
-2018-03-31,IOStoken,IOST,2018-01-27,We are working hard on releasing our github to the public. Our rough deadline for an MVP is early March.,2018-03-13 01:49:42
-2018-03-31,B3Coin,KB3,2018-01-10,"A technique described in Satoshi Nakomoto’s paper. SPV allows a lightweight client to verify transactions",2018-03-13 01:49:42
-2018-03-31,LIFE,LIFE,2018-01-08,"LIFE charity framework enhancements finalised and LIFEcard/wallet beta testing concluded.",2018-03-13 01:49:42
-2018-03-31,Zero,ZER,2018-01-26,Mobile Wallet release in Q1,2018-03-13 01:49:42
-2018-03-31,SALT,SALT,2018-01-10,Development Platform: API & Dev Tools,2018-03-13 01:49:42
-2018-03-31,Mintcoin,MINT,2018-01-07,A new website is planned for Q1 2018,2018-03-13 01:49:42
-2018-03-31,Aeron,ARN,2018-02-04,Pilot and company applications public launch.,2018-03-13 01:49:42
-2018-03-31,adbank,ADB,2018-03-01,AdBank Network Ad Platform launches.,2018-03-13 01:49:42
-2018-03-31,B3Coin,KB3,2018-01-10,"Our Android wallet app will allow you to send and receive funds on the go.",2018-03-13 01:49:42
-2018-03-31,Humaniq,HMQ,2018-01-19,Biometric enhancement will end before 31/03/2018,2018-03-13 01:49:42
-2018-03-31,QLINK,QLC,2018-01-16,Qlink launch Sdk of P2P protocol,2018-03-13 01:49:42
-2018-03-31,DubaiCoin,DBIX,2018-03-09,Palmex upgrade with Fiat pairs for DBIX.,2018-03-13 01:49:42
-2018-03-31,Electroneum,ETN,2018-02-26,"HitBTC just reconfirmed that we are still in the queue and due to be added (again fingers crossed) during March.",2018-03-13 01:49:42
-2018-03-31,WaBi,WABI,2018-01-21,Redesign and update the websites Walimai.com and Wacoin.io,2018-03-13 01:49:42
-2018-03-31,Nucleus Vision,NCASH,2018-02-27,"ION Sensors deployed: 50Telecom Partnerships: 4Neuron: Coalition Loyalty ProgramUsers Identified: 100K",2018-03-13 01:49:42
-2018-03-31,Particl,PART,2017-12-05,Alpha marketplace will be launched "Q1 - 2018". Probably first part of Q1 based on the roadmap.,2018-03-13 01:49:42
-2018-03-31,Waltonchain,WTC,2018-01-21,Our goal is to have Masternode rewards available in Q1 2018.,2018-03-13 01:49:42
-2018-03-31,COSS,COSS,2018-01-23,FIAT deposits + withdrawals by credit cards will be available on coss.io for USD EUR and SGD+ USD EUR & SGD trading against BTC and ETH,2018-03-13 01:49:42
-2018-03-31,Change,CAG,2018-01-09,Invest in a diversified stock portfolio or real estate finance loans sign travel insurance -  with complete transparency and zero delay,2018-03-13 01:49:42
-2018-03-31,Elite,1337,2017-12-26,"Set final rewards APR to 1.337%. Moved the date a little let users (elites) take advantage of current APR",2018-03-13 01:49:42
-2018-03-31,LBRY Credits,LBC,2018-02-03,YouTube Sync program re-launch with Partner Program,2018-03-13 01:49:42
-2018-03-31,ATLANT,ATL,2017-11-29,Atlant platform launch for tokenized properties,2018-03-13 01:49:42
-2018-04-01,Lisk,LSK,2017-11-29,Reduction of transaction costs due to price increase + updated address system,2018-03-13 01:49:42
-2018-04-01,Lisk,LSK,2017-11-29,Brand new versions and functions with Lisk JS (Javascript library) + Lisky (CLI Tool),2018-03-13 01:49:42
-2018-04-01,Lisk,LSK,2017-11-29,Lisk Javascript SDK Alpha Release to create dapps covered by the Lisk Mainchain on new Sidechains.,2018-03-13 01:49:42
-2018-04-05,Cardano,ADA,2018-03-05,Update to the Cardano roadmap,2018-03-13 01:49:42
-2018-04-06,Oyster,PRL,2018-02-17,Airdrop date for the SHL token will be held on April 6 2018. The SHL token will be airdropped at a ratio of 1 PRL:1 SHL for current PRL ho,2018-03-13 01:49:42
-2018-04-09,UTRUST,UTK,2018-01-12,Platform test API for Merchants - Integrate with Merchant checkout mechanisms.,2018-03-13 01:49:42
-2018-04-10,Power Ledger,POWR,2017-12-20,"Dr. Jemma Green will be speaking at the Inspiring Leaders' Summit on 'How do you manage disruption'?",2018-03-13 01:49:42
-2018-04-13,Stratis,STRAT,2018-02-04,Chris will speak at the C#Corner,2018-03-13 01:49:42
-2018-04-18,Waves,WAVES,2017-12-13,18-19 April 2018 London - Blockchain expo Global 2018 - Sasha Ivanov Founder of Waves,2018-03-13 01:49:42
-2018-04-18,Stratis,STRAT,2018-01-29,On the 18th April to 19th April 2018 Stratis will be in attending the Blockchain Expo in London Olympia.,2018-03-13 01:49:42
-2018-04-19,UTRUST,UTK,2018-01-27,The official presentation of the UTRUST platform will be held on 19 April 2018 in Amsterdam at the Zero-In conference,2018-03-13 01:49:42
-2018-04-23,DubaiCoin,DBIX,2018-03-09,CEO Mohammed Alsehl chairing first blockchain summit in Saudi Arabia.,2018-03-13 01:49:42
-2018-04-30,Ethereum Classic,ETC,2018-01-08,Beta of Emerald Mobile Wallet & Disable difficulty bomb,2018-03-13 01:49:42
-2018-04-30,Monero,XMR,2018-02-01,"we have decided that the Snapshot date will be postponed to ~30th of April block 1564965",2018-03-13 01:49:42
-2018-04-30,Po.et,POE,2018-01-04,"Po.et will support custom content licenses in addition to Creative Commons and other industry standards.",2018-03-13 01:49:42
-2018-04-30,Binance Coin,BNB,2017-12-18,Each quarter Binance uses 20% of profits to buy back and burn BNB until 100MM BNB are burned.,2018-03-13 01:49:42
-2018-04-30,ICON,ICX,2018-02-07,ICO Platform and IISS launch,2018-03-13 01:49:42
-2018-04-30,Ripio Credit Network,RCN,2017-12-26,No additional info,2018-03-13 01:49:42
-2018-04-30,Quantstamp,QSP,2018-01-04,The Quantstamp Technical Whitepaper will be updated to include test results. Announced for April 2018.,2018-03-13 01:49:42
-2018-05-31,LIFE,LIFE,2018-01-08,"The first LIFE conference in London - discover LIFE and what it can achieve!",2018-03-13 01:49:42
-2018-05-31,LIFE,LIFE,2018-01-08,Cryptosaurus adopts LIFE as a payment method.,2018-03-13 01:49:42
-2018-06-12,Bytecoin,BCN,2017-12-23,"The Bytecoin Hardfork will include a new dynamic fee system and deconstruction of the old API. It means a new wallet and lot more.",2018-03-13 01:49:42
-2018-06-15,AppCoins,APPC,2018-01-26,This version will complement the May release with side-chain / state channels allowingscalability.,2018-03-13 01:49:42
-2018-06-21,DigiByte,DGB,2018-01-02,"An upcoming DigiByte hard fork that will change some of DigiBytes Mining algorithms to maintain GPU friendliness.",2018-03-13 01:49:42
-2018-06-30,Ethereum Classic,ETC,2018-01-08,PoC of new StateDB layer & Emerald Mobile Wallet,2018-03-13 01:49:42
-2018-06-30,Zcash,ZEC,2017-12-11,"focused entirely on making itself and future network upgrades safer for users even in the case of governance contention",2018-03-13 01:49:42
-2018-06-30,OmiseGO,OMG,2017-12-29,"Honte (OmiseGO network preparation for Plasma) is currently on course to be delivered in Q1 to Q2 of 2018",2018-03-13 01:49:42
-2018-06-30,VeChain,VEN,2018-01-29,VeChain launching their mainnet. VeChain holders will also generate THOR as part of staking rewards every day after this release.,2018-03-13 01:49:42
-2018-06-30,Lisk,LSK,2017-12-25,Lisk is going to launch Custom tokens & dApp registration.,2018-03-13 01:49:42
-2018-06-30,DIMCOIN,DIM,2018-02-20,Dimcoin on HYBSE (hybrid stock exchange).,2018-03-13 01:49:42
-2018-06-30,Blockport,BPT,2018-01-25,Blockport 1.0 full release supporting: Bitcoin and Ethereum + Blockport 2.0 Beta release,2018-03-13 01:49:42
-2018-06-30,eBoost,EBST,2018-01-10,Listing on more major exchanges before the end of Q2,2018-03-13 01:49:42
-2018-06-30,ICON,ICX,2018-02-07,ICX/ETH Decentralized exchange,2018-03-13 01:49:42
-2018-06-30,HTMLCOIN,HTML,2018-01-24,After Q1 beta testing. Poma project will be released on Q2 2018 a platform that works as a free webshop for companies and freelancers.,2018-03-13 01:49:42
-2018-06-30,FunFair,FUN,2017-12-20,Achieve gambling licensure in the United Kingdom Malta and Gibraltar.,2018-03-13 01:49:42
-2018-06-30,FunFair,FUN,2017-12-20,FunFair will be publishing API documentation and sample games and contracts.,2018-03-13 01:49:42
-2018-06-30,Phore,PHR,2017-12-15,In Q2 2018 Phore will launch Segregated Witness allowing more flexibility in the Phore blockchain such as smart contracts.,2018-03-13 01:49:42
-2018-06-30,DigitalNote,XDN,2017-12-27,"Extra layer of security scalability and resistance for XDN blockchain. Can be described as Proof-of-Work + Proof-of-stake. ETA Q2 2018.",2018-03-13 01:49:42
-2018-06-30,Radium,RADS,2017-12-07,"[...] porting the Radium Core wallet to a Stratis codebase. [...] we would like to have this ready in the first half of 2018",2018-03-13 01:49:42
-2018-06-30,AppCoins,APPC,2018-01-23,Rollout of AppCoins on Aptoide App Store as well as on other app stores that joined.,2018-03-13 01:49:42
-2018-06-30,Metaverse ETP,ETP,2018-01-10,Metaverse is coming with an hardfork. It is shown in the source link on the official reddit (Check the comments),2018-03-13 01:49:42
-2018-06-30,B3Coin,KB3,2018-01-10,B3 coin will be the first POS coin with Segwit together with Fundamental Nodes.,2018-03-13 01:49:42
-2018-06-30,Dash,DASH,2017-12-23,Evolution v1 - Mainnet (June 2018),2018-03-13 01:49:42
-2018-06-30,Dent,DENT,2018-01-07,DENT Exchange trading desk on the Web.,2018-03-13 01:49:42
-2018-06-30,WaBi,WABI,2018-01-21,Before June 30th Wabi will launch the Walimai Masternodes.,2018-03-13 01:49:42
-2018-06-30,Neblio,NEBL,2018-01-19,"Enterprise marketing campaign creation to drive the initial adoption of Neblio blockchain technology in the business environment",2018-03-13 01:49:42
-2018-06-30,B3Coin,KB3,2018-01-10,A decentralized exchange network that will allow you to swap any crypto currencies or tokens without an intermediary exchange network.,2018-03-13 01:49:42
-2018-07-01,Electra,ECA,2018-01-19,No additional info,2018-03-13 01:49:42
-2018-07-04,Bytecoin,BCN,2017-12-23,No additional info,2018-03-13 01:49:42
-2018-07-09,UTRUST,UTK,2018-01-12,Client API Wallet Web AppCheck your balance & transactions Integration with major eCommerce platforms,2018-03-13 01:49:42
-2018-07-31,Ethereum Classic,ETC,2018-01-08,Sidechains support in Emerald Project & Emerald SDK First Release,2018-03-13 01:49:42
-2018-07-31,Binance Coin,BNB,2017-12-18,Each quarter Binance uses 20% of profits to buy back and burn BNB until 100MM BNB are burned.,2018-03-13 01:49:42
-2018-08-24,Nxt,NXT,2018-01-13,NXT/Ardor “Hackaton blockchain meets Game Jam” at Danube University Krems Summer 2018,2018-03-13 01:49:42
-2018-09-02,AppCoins,APPC,2018-01-24,App Store Foundation takes over AppCoins project management. AppCoins roll-out to all Aptoide clients (and other participant app stores).,2018-03-13 01:49:42
-2018-09-30,Zcash,ZEC,2017-12-11,"Sapling will activate the Sapling protocol update bringing orders of magnitude improvements in both time and memory to shielded transactio,2018-03-13 01:49:42
-2018-09-30,Blockport,BPT,2018-01-25,Blockport 2.0 Full Release.  Will support 50+ cryptocurrencies,2018-03-13 01:49:42
-2018-09-30,Genesis Vision,GVT,2018-01-21,End of Q3 2018 Beta version of the Genesis Vision application will be available for web and mobile.,2018-03-13 01:49:42
-2018-09-30,Monero,XMR,2017-12-06,"BulletProof (BP) transactions may make it into the september 2018 fork" - Tx size and fees may decrease by 84%,2018-03-13 01:49:42
-2018-10-01,Lisk,LSK,2017-12-26,"Plan to start Decentralised exchange & Sidechain withdraw/deposit",2018-03-13 01:49:42
-2018-10-16,UTRUST,UTK,2018-01-12,No additional info,2018-03-13 01:49:42
-2018-10-19,Power Ledger,POWR,2018-01-12,Update: The final round of the @ExTechChallenge (XTC) will now take place on October 19 2018 on Richard Branson's Necker Island.,2018-03-13 01:49:42
-2018-10-31,Binance Coin,BNB,2017-12-18,Each quarter Binance uses 20% of profits to buy back and burn BNB until 100MM BNB are burned.,2018-03-13 01:49:42
-2018-11-30,Ethereum Classic,ETC,2018-01-08,Fully IoT-compatible infrastructure of ETC,2018-03-13 01:49:42
-2018-12-31,Ethereum Classic,ETC,2018-02-09,Upgrade EVM (new opcodes and optimizations),2018-03-13 01:49:42
-2018-12-31,Genesis Vision,GVT,2018-01-21,In Q4 2018 Genesis Vision will launch app version 1.0.,2018-03-13 01:49:42
-2018-12-31,FunFair,FUN,2017-12-20,FunFair will be releasing comprehensive operator reporting and administration tools.,2018-03-13 01:49:42
-2018-12-31,Stellar,XLM,2018-02-16,The Stellar Decentralized Exchange will be the world-class front-end that our underlying technology has long deserved.,2018-03-13 01:49:42
+2018-03-13,Ripple,XRP,2018-01-17,Ripple will be at Money20/20 Asia in Singapore this March.Event will be on March 13-15 2018.,2018-03-13 01:51:41
+2018-03-13,NEO,NEO,2018-02-09,March 13 - 15 in Melbourne Australia,2018-03-13 01:51:41
+2018-03-13,Monaco,MCO,2018-01-23,Monaco is a speaker and an exhibitor at the upcoming Money 20/20 Asia the hottest FinTech event.,2018-03-13 01:51:41
+2018-03-14,IOTA,MIOTA,2018-01-29,Dominik Schiener will be speaking with Ayelet Noff about building a machine economy with IOTA.,2018-03-13 01:51:41
+2018-03-14,BitBay,BAY,2017-12-20,No additional info,2018-03-13 01:51:41
+2018-03-15,Burst,BURST,2018-01-04,Dynamic block size and transaction fees PoC2 protocol partial Dymaxion code... The fork is planned to happen around block 470 000.,2018-03-13 01:51:41
+2018-03-15,Stellar,XLM,2018-01-26,The Stellar Build Challenge is an ongoing program to reward innovation and development in the Stellar ecosystem.,2018-03-13 01:51:41
+2018-03-15,TRON,TRX,2018-02-27,Tron Mascot Contest: submit mascot ideas Feb 26 through Mar 15.,2018-03-13 01:51:41
+2018-03-15,IOStoken,IOST,2018-01-22,"Working hard on releasing our github to the public and you can expect to see our code in the coming weeks. Deadline - early march.",2018-03-13 01:51:41
+2018-03-15,Pundi X,PXS,2018-01-27,The date and metric of $PXS token split are decided. PXS will swap 1:1000 and become ‘the-new-PXS’ on March 15.,2018-03-13 01:51:41
+2018-03-16,IOTA,MIOTA,2017-12-22,Presentation of business plans at the Blockchain Business Camp Tokyo.,2018-03-13 01:51:41
+2018-03-16,Einsteinium,EMC2,2018-02-20,March 16th will be the release date for Weeee Cash.,2018-03-13 01:51:41
+2018-03-16,Einsteinium,EMC2,2018-03-01,Einsteinium EMC2 social/payment mobile app  release on march 16th.,2018-03-13 01:51:41
+2018-03-17,eBitcoin,EBTC,2018-02-01,#ePRX #Airdrop for #eBTC holders set for 17th of March 2018 at 21:00 GCT!,2018-03-13 01:51:41
+2018-03-19,GameCredits,GAME,2018-02-05,GameCredits attends the Game Developers Conference in San Francisco.,2018-03-13 01:51:41
+2018-03-19,Quantstamp,QSP,2018-01-10,Quantstamp presenting their prototype at the YCombinator Demo day during March 19-21 at the Computer History Museum in Mountain View CA,2018-03-13 01:51:41
+2018-03-20,Bytecoin,BCN,2017-12-23,"Release of an absolutely new stable Bytecoin wallet. New design features and a fast synchronized blockchain for Bytecoin users.",2018-03-13 01:51:41
+2018-03-20,Lisk,LSK,2018-01-29,Lisk's Max Kordek will be presenting at the Token20149 event in Hong Kong scheduled for 20th-21st of March 2018.,2018-03-13 01:51:41
+2018-03-21,AppCoins,APPC,2018-01-26,Open source reference implementation of libraries command line tools and SDK for AppCoins developers,2018-03-13 01:51:41
+2018-03-21,Enjin Coin,ENJ,2018-01-26,Update: Blockchain Will Change Virtual Game Items Forever (Presented by Enjin),2018-03-13 01:51:41
+2018-03-22,Cappasity,CAPP,2018-01-09,Token Sale phase 2,2018-03-13 01:51:41
+2018-03-22,Groestlcoin,GRS,2018-01-19,No additional info,2018-03-13 01:51:41
+2018-03-22,Decision Token,HST,2017-12-29,Jamie Skella (Co-Founder of Horizon State) will be presenting at DevOps Talks Conference 22nd-23rd March 2018 Melbourne Australia,2018-03-13 01:51:41
+2018-03-23,Bitcoin Cash,BCH,2018-01-10,Satoshi's Vision Conference 23-25 March 2018 in Tokyo JapanSpeaker list:Roger Ver CEO Bitcoin.comAmaury Séchet Lead Devetc,2018-03-13 01:51:41
+2018-03-23,Eidoo,EDO,2018-01-12,The UbiatarPlay ICO will start on March 23rd exclusively on Eidoo.,2018-03-13 01:51:41
+2018-03-24,Rebellious,REBL,2018-02-17,We have currently set the official date for the launch of our new and improved rebranded website to the March 24th.,2018-03-13 01:51:41
+2018-03-25,NEM,XEM,2018-02-15,March 25 2018 Sunday at 8:00 PM to 10:00 PM.Somewhere Hotel Port Saeed Deira Opposite Deira City Centre Dubai.,2018-03-13 01:51:41
+2018-03-28,Nxt,NXT,2018-02-16,No additional info,2018-03-13 01:51:41
+2018-03-30,ZenCash,ZEN,2017-12-19,No additional info,2018-03-13 01:51:41
+2018-03-31,TRON,TRX,2017-12-29,"The coinburn is confirmed",2018-03-13 01:51:41
+2018-03-31,Voise,VOISE,2018-01-04,No additional info,2018-03-13 01:51:41
+2018-03-31,Ethereum Classic,ETC,2018-01-08,First public release of Emerald Desktop Wallet & Warp sync in Geth,2018-03-13 01:51:41
+2018-03-31,TRON,TRX,2018-01-23,TRON will launch first beta version (Exodus) on Mar 31 2018.,2018-03-13 01:51:41
+2018-03-31,Verge,XVG,2018-01-04,New Website expected Q1 2018,2018-03-13 01:51:41
+2018-03-31,Siacoin,SC,2018-01-02,File contract making upgraded to form 30x faster.,2018-03-13 01:51:41
+2018-03-31,Siacoin,SC,2018-01-02,Ability to recover files your files using only your wallet seed.,2018-03-13 01:51:41
+2018-03-31,Siacoin,SC,2018-01-02,To be released in Q1. Share files with other Sia users.,2018-03-13 01:51:41
+2018-03-31,ReddCoin,RDD,2017-12-18,Gozzy stated on the official ReddCoin Telegram that Redd-ID should be released Q1 2018,2018-03-13 01:51:41
+2018-03-31,Vertcoin,VTC,2017-12-11,Vertbase (vertbase.com) an US-based exchange for Vertcoin and the US Dollar is launching at the end of Q1 2018.,2018-03-13 01:51:41
+2018-03-31,Stratis,STRAT,2017-12-27,Stratis is working on providing a smart contracts solution that will cater for .NET developers.,2018-03-13 01:51:41
+2018-03-31,TRON,TRX,2018-02-12,"The main net of #TRON will be launched in advance from July 1st to May 31st. The test net will be delivered on March 31st. #TRX $TRX",2018-03-13 01:51:41
+2018-03-31,EOS,EOS,2017-12-13,"Dawn 3.0 code is still in Early Alpha [...] it will not be available in a public TestNet until the end of Q1 2018",2018-03-13 01:51:41
+2018-03-31,Stratis,STRAT,2017-12-27,No additional info,2018-03-13 01:51:41
+2018-03-31,NEO,NEO,2017-12-25,This competition has a bounty pool of up to USD 490000. Prize winners will be awarded equivalent amount of bounties in GAS.,2018-03-13 01:51:41
+2018-03-31,IOTA,MIOTA,2017-12-21,"Q1/Q2 2018 is when we start announcing some of the partnerships for AV testbeds.",2018-03-13 01:51:41
+2018-03-31,Stratis,STRAT,2017-12-27,"The Stratis Identity iOS application is currently awaiting approval to be published to the Apple App Store.",2018-03-13 01:51:41
+2018-03-31,IOTA,MIOTA,2018-01-08,Update: The mobile wallet will have a public beta release this quarter with the code being open sourced at the same time.,2018-03-13 01:51:41
+2018-03-31,Monetha,MTH,2017-12-12,"The first product version will be release on the 31st of March". Check the source for proof.,2018-03-13 01:51:41
+2018-03-31,Bitcoin Gold,BTG,2017-12-29,Lightning network will be adopted in the first quarter of 2018,2018-03-13 01:51:41
+2018-03-31,Electra,ECA,2018-01-03,"We are continuing to work diligently - we have so much in store for you in the weeks to come.",2018-03-13 01:51:41
+2018-03-31,Rise,RISE,2017-12-04,"holders will be allocated 20% of all Interlet Tokens" "holders will be given a % of Chipz tokens" "snapshot (Q1 2018)",2018-03-13 01:51:41
+2018-03-31,SunContract,SNC,2018-01-10,Platform and App Release expected for Q1,2018-03-13 01:51:41
+2018-03-31,IOTA,MIOTA,2017-12-29,Omoku will be the first real IOTA/EUR bridge and aims to add more fiat currencies in 2018.,2018-03-13 01:51:41
+2018-03-31,Bitcoin Gold,BTG,2017-12-29,No additional info,2018-03-13 01:51:41
+2018-03-31,Ethos,ETHOS,2017-12-07,"Q1 UW still on schedule",2018-03-13 01:51:41
+2018-03-31,ICON,ICX,2018-01-31,Token Swap and mobile wallet in March 2018.,2018-03-13 01:51:41
+2018-03-31,Bitcoin Gold,BTG,2017-12-29,No additional info,2018-03-13 01:51:41
+2018-03-31,Verge,XVG,2018-02-02,Adding the RSK Smart Contracts to the Vergecurrency technology.,2018-03-13 01:51:41
+2018-03-31,Telcoin,TEL,2018-01-23,The Company announces that one will be able to acquire the TEL from mobile operator directly. This is a new channel.,2018-03-13 01:51:41
+2018-03-31,Golem,GNT,2017-12-19,"We will do the airdrop in Q1 2018 for sure (well) before the Brass mainnet release.",2018-03-13 01:51:41
+2018-03-31,Zero,ZER,2018-01-27,To be listed on one large-sized exchange.,2018-03-13 01:51:41
+2018-03-31,Po.et,POE,2018-01-04,"Po.et releases the official wordpress integration using an open API.",2018-03-13 01:51:41
+2018-03-31,Genesis Vision,GVT,2018-01-20,At the end of Q1 Alpha version of the Genesis Vision application will be launched.,2018-03-13 01:51:41
+2018-03-31,Blockport,BPT,2018-01-25,Launch of 1.0 Beta Version. User can buy sell and store BTC & ETH,2018-03-13 01:51:41
+2018-03-31,AppCoins,APPC,2018-01-11,Release of the first beta version of Aptoide with AppCoins support,2018-03-13 01:51:41
+2018-03-31,Verge,XVG,2018-02-03,Anonymous mobile transactions over the I2P network,2018-03-13 01:51:41
+2018-03-31,FunFair,FUN,2017-12-28,"By the end of March V1 of the FunFair blockchain casino nears completion.",2018-03-13 01:51:41
+2018-03-31,Syscoin,SYS,2018-01-18,Masternodes and Assets the first ICO is due to be launched on the Syscoin platform next month.,2018-03-13 01:51:41
+2018-03-31,Enjin Coin,ENJ,2018-01-01,Unturned Plugin Release,2018-03-13 01:51:41
+2018-03-31,Nebulas,NAS,2018-01-12,The mainnet will  be launched at the end of Q1 2018 and afterwards the swap from erc20 to nebulas blockchain will take place.,2018-03-13 01:51:41
+2018-03-31,FunFair,FUN,2017-12-06,Official Public Release,2018-03-13 01:51:41
+2018-03-31,Enjin Coin,ENJ,2018-01-01,C# & Unity SDK Release (Core Features),2018-03-13 01:51:41
+2018-03-31,HTMLCOIN,HTML,2018-01-23,Beta Testing of a Web Shop using Html coin for companies and freelancers.,2018-03-13 01:51:41
+2018-03-31,Request Network,REQ,2018-01-07,Mainnet release by the end of Q1 2018,2018-03-13 01:51:41
+2018-03-31,Espers,ESP,2017-12-29,Team will release the Whitepaper,2018-03-13 01:51:41
+2018-03-31,Experience Points,XP,2017-12-31,Reward System beta version Release,2018-03-13 01:51:41
+2018-03-31,LUXCoin,LUX,2018-01-11,Update : Q1,2018-03-13 01:51:41
+2018-03-31,Waves,WAVES,2018-01-12,Smart contracts (non-turing) + Hardware wallets shapeshift + Mobile apps update + Decentralized voting + Simple messaging.,2018-03-13 01:51:41
+2018-03-31,Neblio,NEBL,2018-01-05,"We believe that the first step in unlocking the potential of  the Neblio Blockchain in the enterprise world is to make the technology easie,2018-03-13 01:51:41
+2018-03-31,Metal,MTL,2018-01-01,Release of Metal "Pay". This app will allow our users to make payments with just a phone number while being rewarded to use the system.,2018-03-13 01:51:41
+2018-03-31,LUXCoin,LUX,2018-01-03,Activation of Segwit and smart contracts. Update : Q1,2018-03-13 01:51:41
+2018-03-31,SONM,SNM,2018-01-09,February -March 2018,2018-03-13 01:51:41
+2018-03-31,Request Network,REQ,2018-01-07,"This quarter will also be the one where we'll work on potential and important partnerships with accounting payment and audit firms.",2018-03-13 01:51:41
+2018-03-31,Cappasity,CAPP,2018-01-14,Release of Android framework (Feb-March),2018-03-13 01:51:41
+2018-03-31,Cappasity,CAPP,2018-01-14,Cappasity will release their 3D View capturing app for Android (Feb-March),2018-03-13 01:51:41
+2018-03-31,Kyber Network,KNC,2018-01-09,First mainnet launch support trading between tokens and ETH,2018-03-13 01:51:41
+2018-03-31,Cappasity,CAPP,2018-01-14,Plugins for Unity and Unreal Engine will be released in Q1,2018-03-13 01:51:41
+2018-03-31,Triggers,TRIG,2017-12-04,"Estimate of launch is end of 1st quarter of 2018.",2018-03-13 01:51:41
+2018-03-31,Cappasity,CAPP,2018-01-14,Cappasity will release the Mobile capturing SDK (March),2018-03-13 01:51:41
+2018-03-31,Metal,MTL,2018-01-01,"The release of the new website is expected Q1 2018 shortly before the Metal Pay release.",2018-03-13 01:51:41
+2018-03-31,Request Network,REQ,2018-01-07,Integration of BTC and ERC-20 tokens into Request,2018-03-13 01:51:41
+2018-03-31,Bitcoin Gold,BTG,2018-01-24,No additional info,2018-03-13 01:51:41
+2018-03-31,HTMLCOIN,HTML,2018-01-24,Decentralized application that enable us to teach minorities and segregated communities the concepts behind smart contacts.,2018-03-13 01:51:41
+2018-03-31,Request Network,REQ,2018-01-07,Pay with Request project is an online button offering an alternative to the traditional Pay with Paypal and Pay with credit card.,2018-03-13 01:51:41
+2018-03-31,Simple Token,OST,2017-12-29,"In early 2018 we will launch Simple Token alpha which will be the first Simple Token release on top of the OpenST protocol and platform.",2018-03-13 01:51:41
+2018-03-31,Hive,HVN,2018-01-21,"HVN is currently listed on three exchanges and the fourth is planned to be added by the end of Q1/2018",2018-03-13 01:51:41
+2018-03-31,Verge,XVG,2018-02-16,XVGui Miner Official Mining Pool Mining Guide,2018-03-13 01:51:41
+2018-03-31,Telcoin,TEL,2018-02-20,We  are currently in discussion with several exchanges. We are confident [...] at least one new exchange in March.,2018-03-13 01:51:41
+2018-03-31,BitBay,BAY,2017-12-15,No additional info,2018-03-13 01:51:41
+2018-03-31,Nuls,NULS,2018-01-04,Launch of NULS Main Chain,2018-03-13 01:51:41
+2018-03-31,Dent,DENT,2018-01-04,Launching DENT IOS App in Q1 2018,2018-03-13 01:51:41
+2018-03-31,Komodo,KMD,2018-01-15,"We expect to release a new website in Q1. Check out our Marketing Report we released only yesterday. recently released.",2018-03-13 01:51:41
+2018-03-31,Espers,ESP,2018-01-09,Whitepaper Lightweight client & Espers Mobile Wallet App Release,2018-03-13 01:51:41
+2018-03-31,ICON,ICX,2018-02-26,Airdrop will be distributed as mainnet ICX Coins. Entitled to the airdrop are only token sale participants bounty and other event winners.,2018-03-13 01:51:41
+2018-03-31,CanYaCoin,CAN,2018-01-11,Utilising KYC/AML support centres in Europe Southeast Asia North America China and Australia. Canya will launch globally.,2018-03-13 01:51:41
+2018-03-31,Red Pulse,RPX,2018-01-15,The Launch of the new python / Django platform,2018-03-13 01:51:41
+2018-03-31,BitBay,BAY,2017-12-20,Dynamic Peg Test Client Release,2018-03-13 01:51:41
+2018-03-31,HempCoin,THC,2018-02-04,Provide a way for large HempCoin buyers to use BTC to purchase THC manually.,2018-03-13 01:51:41
+2018-03-31,QASH,QASH,2017-12-15,No additional info,2018-03-13 01:51:41
+2018-03-31,Phore,PHR,2017-12-15,In Q1 2018 Phore is launching a decentralized marketplace utilizing OpenBazaar 2.0 code base,2018-03-13 01:51:41
+2018-03-31,Modum,MOD,2018-01-02,MOD will release official announcement of new partnership with 5+billion revenue logistics provider in Q1 2018.,2018-03-13 01:51:41
+2018-03-31,Musicoin,MUSIC,2018-02-28,Musicoin upgrade its blockchain to support enhanced security and more efficient transactions. Hard fork will be triggered at block 2222222,2018-03-13 01:51:41
+2018-03-31,BitBay,BAY,2017-12-20,Release of The Final Smart Contract Templates,2018-03-13 01:51:41
+2018-03-31,PoSW Coin,POSW,2018-02-11,There will be coin swap from POSW to XSN,2018-03-13 01:51:41
+2018-03-31,DubaiCoin,DBIX,2018-03-09,Release of API v2 and Android IOS Desktop wallet.,2018-03-13 01:51:41
+2018-03-31,DeepBrain Chain,DBC,2018-01-13,"DeepBrain Chain platform is officially on the NEO blockchain with all code open sourced and mining software released",2018-03-13 01:51:41
+2018-03-31,Gifto,GTO,2018-01-05,"Beta version : Decentralized GIFTO Protocol in Blockchain working in external environment",2018-03-13 01:51:41
+2018-03-31,Global Currency Reserve,GCR,2018-02-11,New platform launching in Q1 2018,2018-03-13 01:51:41
+2018-03-31,TenX,PAY,2018-01-26,"We'll be live with our new issuer by end of this quarter. then we have to reissue all cards that were already live",2018-03-13 01:51:41
+2018-03-31,IOStoken,IOST,2018-01-27,We are working hard on releasing our github to the public. Our rough deadline for an MVP is early March.,2018-03-13 01:51:41
+2018-03-31,B3Coin,KB3,2018-01-10,"A technique described in Satoshi Nakomoto’s paper. SPV allows a lightweight client to verify transactions",2018-03-13 01:51:41
+2018-03-31,LIFE,LIFE,2018-01-08,"LIFE charity framework enhancements finalised and LIFEcard/wallet beta testing concluded.",2018-03-13 01:51:41
+2018-03-31,Zero,ZER,2018-01-26,Mobile Wallet release in Q1,2018-03-13 01:51:41
+2018-03-31,SALT,SALT,2018-01-10,Development Platform: API & Dev Tools,2018-03-13 01:51:41
+2018-03-31,Mintcoin,MINT,2018-01-07,A new website is planned for Q1 2018,2018-03-13 01:51:41
+2018-03-31,Aeron,ARN,2018-02-04,Pilot and company applications public launch.,2018-03-13 01:51:41
+2018-03-31,adbank,ADB,2018-03-01,AdBank Network Ad Platform launches.,2018-03-13 01:51:41
+2018-03-31,B3Coin,KB3,2018-01-10,"Our Android wallet app will allow you to send and receive funds on the go.",2018-03-13 01:51:41
+2018-03-31,Humaniq,HMQ,2018-01-19,Biometric enhancement will end before 31/03/2018,2018-03-13 01:51:41
+2018-03-31,QLINK,QLC,2018-01-16,Qlink launch Sdk of P2P protocol,2018-03-13 01:51:41
+2018-03-31,DubaiCoin,DBIX,2018-03-09,Palmex upgrade with Fiat pairs for DBIX.,2018-03-13 01:51:41
+2018-03-31,Electroneum,ETN,2018-02-26,"HitBTC just reconfirmed that we are still in the queue and due to be added (again fingers crossed) during March.",2018-03-13 01:51:41
+2018-03-31,WaBi,WABI,2018-01-21,Redesign and update the websites Walimai.com and Wacoin.io,2018-03-13 01:51:41
+2018-03-31,Nucleus Vision,NCASH,2018-02-27,"ION Sensors deployed: 50Telecom Partnerships: 4Neuron: Coalition Loyalty ProgramUsers Identified: 100K",2018-03-13 01:51:41
+2018-03-31,Particl,PART,2017-12-05,Alpha marketplace will be launched "Q1 - 2018". Probably first part of Q1 based on the roadmap.,2018-03-13 01:51:41
+2018-03-31,Waltonchain,WTC,2018-01-21,Our goal is to have Masternode rewards available in Q1 2018.,2018-03-13 01:51:41
+2018-03-31,COSS,COSS,2018-01-23,FIAT deposits + withdrawals by credit cards will be available on coss.io for USD EUR and SGD+ USD EUR & SGD trading against BTC and ETH,2018-03-13 01:51:41
+2018-03-31,Change,CAG,2018-01-09,Invest in a diversified stock portfolio or real estate finance loans sign travel insurance -  with complete transparency and zero delay,2018-03-13 01:51:41
+2018-03-31,Elite,1337,2017-12-26,"Set final rewards APR to 1.337%. Moved the date a little let users (elites) take advantage of current APR",2018-03-13 01:51:41
+2018-03-31,LBRY Credits,LBC,2018-02-03,YouTube Sync program re-launch with Partner Program,2018-03-13 01:51:41
+2018-03-31,ATLANT,ATL,2017-11-29,Atlant platform launch for tokenized properties,2018-03-13 01:51:41
+2018-04-01,Lisk,LSK,2017-11-29,Reduction of transaction costs due to price increase + updated address system,2018-03-13 01:51:41
+2018-04-01,Lisk,LSK,2017-11-29,Brand new versions and functions with Lisk JS (Javascript library) + Lisky (CLI Tool),2018-03-13 01:51:41
+2018-04-01,Lisk,LSK,2017-11-29,Lisk Javascript SDK Alpha Release to create dapps covered by the Lisk Mainchain on new Sidechains.,2018-03-13 01:51:41
+2018-04-05,Cardano,ADA,2018-03-05,Update to the Cardano roadmap,2018-03-13 01:51:41
+2018-04-06,Oyster,PRL,2018-02-17,Airdrop date for the SHL token will be held on April 6 2018. The SHL token will be airdropped at a ratio of 1 PRL:1 SHL for current PRL ho,2018-03-13 01:51:41
+2018-04-09,UTRUST,UTK,2018-01-12,Platform test API for Merchants - Integrate with Merchant checkout mechanisms.,2018-03-13 01:51:41
+2018-04-10,Power Ledger,POWR,2017-12-20,"Dr. Jemma Green will be speaking at the Inspiring Leaders' Summit on 'How do you manage disruption'?",2018-03-13 01:51:41
+2018-04-13,Stratis,STRAT,2018-02-04,Chris will speak at the C#Corner,2018-03-13 01:51:41
+2018-04-18,Waves,WAVES,2017-12-13,18-19 April 2018 London - Blockchain expo Global 2018 - Sasha Ivanov Founder of Waves,2018-03-13 01:51:41
+2018-04-18,Stratis,STRAT,2018-01-29,On the 18th April to 19th April 2018 Stratis will be in attending the Blockchain Expo in London Olympia.,2018-03-13 01:51:41
+2018-04-19,UTRUST,UTK,2018-01-27,The official presentation of the UTRUST platform will be held on 19 April 2018 in Amsterdam at the Zero-In conference,2018-03-13 01:51:41
+2018-04-23,DubaiCoin,DBIX,2018-03-09,CEO Mohammed Alsehl chairing first blockchain summit in Saudi Arabia.,2018-03-13 01:51:41
+2018-04-30,Ethereum Classic,ETC,2018-01-08,Beta of Emerald Mobile Wallet & Disable difficulty bomb,2018-03-13 01:51:41
+2018-04-30,Monero,XMR,2018-02-01,"we have decided that the Snapshot date will be postponed to ~30th of April block 1564965",2018-03-13 01:51:41
+2018-04-30,Po.et,POE,2018-01-04,"Po.et will support custom content licenses in addition to Creative Commons and other industry standards.",2018-03-13 01:51:41
+2018-04-30,Binance Coin,BNB,2017-12-18,Each quarter Binance uses 20% of profits to buy back and burn BNB until 100MM BNB are burned.,2018-03-13 01:51:41
+2018-04-30,ICON,ICX,2018-02-07,ICO Platform and IISS launch,2018-03-13 01:51:41
+2018-04-30,Ripio Credit Network,RCN,2017-12-26,No additional info,2018-03-13 01:51:41
+2018-04-30,Quantstamp,QSP,2018-01-04,The Quantstamp Technical Whitepaper will be updated to include test results. Announced for April 2018.,2018-03-13 01:51:41
+2018-04-30,Cardano,ADA,2018-03-05,"A IELE testnet will be launched around April.",2018-03-13 01:51:41
+2018-04-30,Oyster,PRL,2018-01-05,"Refinement of the software the addition of the Distributed Reputation System and integration with the Oyster Contract",2018-03-13 01:51:41
+2018-04-30,DigiPulse,DGPT,2018-01-21,Token burning scheduled for April 30. 67.57% of total supply will be burnt.,2018-03-13 01:51:41
+2018-05-01,Bytecoin,BCN,2018-01-09,BCN/FIAT pool based exchange and BCN Card,2018-03-13 01:51:41
+2018-05-02,AppCoins,APPC,2018-01-26,A first implementation of the AppCoins protocol by a “client” in this case Aptoide app store.,2018-03-13 01:51:41
+2018-05-03,Ethereum,ETH,2017-12-14,Community Ethereum Development Conference,2018-03-13 01:51:41
+2018-05-04,NEM,XEM,2017-12-07,"Join the first world-class quality blockchain and cryptocurrency conference on May 4-5 2018 in Amsterdam Netherlands",2018-03-13 01:51:41
+2018-05-15,ClearPoll,POLL,2018-01-09,Full public launch of ClearPoll app desktop and additional services. iOS and Android.,2018-03-13 01:51:41
+2018-05-15,Bitcoin Cash,BCH,2018-01-19,ABC plans to do two hard forks in 2018 they call them “protocol upgrades;” on May 15 and November 15.,2018-03-13 01:51:41
+2018-05-18,iExec RLC,RLC,2018-01-09,No additional info,2018-03-13 01:51:41
+2018-05-23,eBoost,EBST,2018-01-15,"Alaris airdrop is scheduled for May 23rd 2018",2018-03-13 01:51:41
+2018-05-24,IOTA,MIOTA,2018-01-17,IOTA co-founder Dominik Schiener will be a speaker at TNW Conference in Amsterdam.,2018-03-13 01:51:41
+2018-05-31,TRON,TRX,2018-01-02,The launch date of main net will be advanced form July 1st to May 31st.,2018-03-13 01:51:41
+2018-05-31,Ethereum Classic,ETC,2018-01-08,Working prototype of Sidechain & Enable new Opcodes for compatibility with ETH,2018-03-13 01:51:41
+2018-05-31,Stellar,XLM,2018-01-15,FairX Stay tuned for BETA in late Jan / early Feb for more in-depth testing in more locations.,2018-03-13 01:51:41
+2018-05-31,NEM,XEM,2017-12-15,"Catapult NEM (version 2.0 of NEM) will come sometime in May 2018",2018-03-13 01:51:41
+2018-05-31,LIFE,LIFE,2018-01-08,"The first LIFE conference in London - discover LIFE and what it can achieve!",2018-03-13 01:51:41
+2018-05-31,LIFE,LIFE,2018-01-08,Cryptosaurus adopts LIFE as a payment method.,2018-03-13 01:51:41
+2018-06-12,Bytecoin,BCN,2017-12-23,"The Bytecoin Hardfork will include a new dynamic fee system and deconstruction of the old API. It means a new wallet and lot more.",2018-03-13 01:51:41
+2018-06-15,AppCoins,APPC,2018-01-26,This version will complement the May release with side-chain / state channels allowingscalability.,2018-03-13 01:51:41
+2018-06-21,DigiByte,DGB,2018-01-02,"An upcoming DigiByte hard fork that will change some of DigiBytes Mining algorithms to maintain GPU friendliness.",2018-03-13 01:51:41
+2018-06-30,Ethereum Classic,ETC,2018-01-08,PoC of new StateDB layer & Emerald Mobile Wallet,2018-03-13 01:51:41
+2018-06-30,Zcash,ZEC,2017-12-11,"focused entirely on making itself and future network upgrades safer for users even in the case of governance contention",2018-03-13 01:51:41
+2018-06-30,OmiseGO,OMG,2017-12-29,"Honte (OmiseGO network preparation for Plasma) is currently on course to be delivered in Q1 to Q2 of 2018",2018-03-13 01:51:41
+2018-06-30,VeChain,VEN,2018-01-29,VeChain launching their mainnet. VeChain holders will also generate THOR as part of staking rewards every day after this release.,2018-03-13 01:51:41
+2018-06-30,Lisk,LSK,2017-12-25,Lisk is going to launch Custom tokens & dApp registration.,2018-03-13 01:51:41
+2018-06-30,DIMCOIN,DIM,2018-02-20,Dimcoin on HYBSE (hybrid stock exchange).,2018-03-13 01:51:41
+2018-06-30,Blockport,BPT,2018-01-25,Blockport 1.0 full release supporting: Bitcoin and Ethereum + Blockport 2.0 Beta release,2018-03-13 01:51:41
+2018-06-30,eBoost,EBST,2018-01-10,Listing on more major exchanges before the end of Q2,2018-03-13 01:51:41
+2018-06-30,ICON,ICX,2018-02-07,ICX/ETH Decentralized exchange,2018-03-13 01:51:41
+2018-06-30,HTMLCOIN,HTML,2018-01-24,After Q1 beta testing. Poma project will be released on Q2 2018 a platform that works as a free webshop for companies and freelancers.,2018-03-13 01:51:41
+2018-06-30,FunFair,FUN,2017-12-20,Achieve gambling licensure in the United Kingdom Malta and Gibraltar.,2018-03-13 01:51:41
+2018-06-30,FunFair,FUN,2017-12-20,FunFair will be publishing API documentation and sample games and contracts.,2018-03-13 01:51:41
+2018-06-30,Phore,PHR,2017-12-15,In Q2 2018 Phore will launch Segregated Witness allowing more flexibility in the Phore blockchain such as smart contracts.,2018-03-13 01:51:41
+2018-06-30,DigitalNote,XDN,2017-12-27,"Extra layer of security scalability and resistance for XDN blockchain. Can be described as Proof-of-Work + Proof-of-stake. ETA Q2 2018.",2018-03-13 01:51:41
+2018-06-30,Radium,RADS,2017-12-07,"[...] porting the Radium Core wallet to a Stratis codebase. [...] we would like to have this ready in the first half of 2018",2018-03-13 01:51:41
+2018-06-30,AppCoins,APPC,2018-01-23,Rollout of AppCoins on Aptoide App Store as well as on other app stores that joined.,2018-03-13 01:51:41
+2018-06-30,Metaverse ETP,ETP,2018-01-10,Metaverse is coming with an hardfork. It is shown in the source link on the official reddit (Check the comments),2018-03-13 01:51:41
+2018-06-30,B3Coin,KB3,2018-01-10,B3 coin will be the first POS coin with Segwit together with Fundamental Nodes.,2018-03-13 01:51:41
+2018-06-30,Dash,DASH,2017-12-23,Evolution v1 - Mainnet (June 2018),2018-03-13 01:51:41
+2018-06-30,Dent,DENT,2018-01-07,DENT Exchange trading desk on the Web.,2018-03-13 01:51:41
+2018-06-30,WaBi,WABI,2018-01-21,Before June 30th Wabi will launch the Walimai Masternodes.,2018-03-13 01:51:41
+2018-06-30,Neblio,NEBL,2018-01-19,"Enterprise marketing campaign creation to drive the initial adoption of Neblio blockchain technology in the business environment",2018-03-13 01:51:41
+2018-06-30,B3Coin,KB3,2018-01-10,A decentralized exchange network that will allow you to swap any crypto currencies or tokens without an intermediary exchange network.,2018-03-13 01:51:41
+2018-07-01,Electra,ECA,2018-01-19,No additional info,2018-03-13 01:51:41
+2018-07-04,Bytecoin,BCN,2017-12-23,No additional info,2018-03-13 01:51:41
+2018-07-09,UTRUST,UTK,2018-01-12,Client API Wallet Web AppCheck your balance & transactions Integration with major eCommerce platforms,2018-03-13 01:51:41
+2018-07-31,Ethereum Classic,ETC,2018-01-08,Sidechains support in Emerald Project & Emerald SDK First Release,2018-03-13 01:51:41
+2018-07-31,Binance Coin,BNB,2017-12-18,Each quarter Binance uses 20% of profits to buy back and burn BNB until 100MM BNB are burned.,2018-03-13 01:51:41
+2018-08-24,Nxt,NXT,2018-01-13,NXT/Ardor “Hackaton blockchain meets Game Jam” at Danube University Krems Summer 2018,2018-03-13 01:51:41
+2018-09-02,AppCoins,APPC,2018-01-24,App Store Foundation takes over AppCoins project management. AppCoins roll-out to all Aptoide clients (and other participant app stores).,2018-03-13 01:51:41
+2018-09-30,Zcash,ZEC,2017-12-11,"Sapling will activate the Sapling protocol update bringing orders of magnitude improvements in both time and memory to shielded transactio,2018-03-13 01:51:41
+2018-09-30,Blockport,BPT,2018-01-25,Blockport 2.0 Full Release.  Will support 50+ cryptocurrencies,2018-03-13 01:51:41
+2018-09-30,Genesis Vision,GVT,2018-01-21,End of Q3 2018 Beta version of the Genesis Vision application will be available for web and mobile.,2018-03-13 01:51:41
+2018-09-30,Monero,XMR,2017-12-06,"BulletProof (BP) transactions may make it into the september 2018 fork" - Tx size and fees may decrease by 84%,2018-03-13 01:51:41
+2018-10-01,Lisk,LSK,2017-12-26,"Plan to start Decentralised exchange & Sidechain withdraw/deposit",2018-03-13 01:51:41
+2018-10-16,UTRUST,UTK,2018-01-12,No additional info,2018-03-13 01:51:41
+2018-10-19,Power Ledger,POWR,2018-01-12,Update: The final round of the @ExTechChallenge (XTC) will now take place on October 19 2018 on Richard Branson's Necker Island.,2018-03-13 01:51:41
+2018-10-31,Binance Coin,BNB,2017-12-18,Each quarter Binance uses 20% of profits to buy back and burn BNB until 100MM BNB are burned.,2018-03-13 01:51:41
+2018-11-30,Ethereum Classic,ETC,2018-01-08,Fully IoT-compatible infrastructure of ETC,2018-03-13 01:51:41
+2018-12-31,Ethereum Classic,ETC,2018-02-09,Upgrade EVM (new opcodes and optimizations),2018-03-13 01:51:41
+2018-12-31,Genesis Vision,GVT,2018-01-21,In Q4 2018 Genesis Vision will launch app version 1.0.,2018-03-13 01:51:41
+2018-12-31,FunFair,FUN,2017-12-20,FunFair will be releasing comprehensive operator reporting and administration tools.,2018-03-13 01:51:41
+2018-12-31,Stellar,XLM,2018-02-16,The Stellar Decentralized Exchange will be the world-class front-end that our underlying technology has long deserved.,2018-03-13 01:51:41
