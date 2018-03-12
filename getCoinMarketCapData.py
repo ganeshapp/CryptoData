@@ -32,7 +32,7 @@ file_historical.write(','.join(str(e) for e in header_historical)+'\n')
 file_exchange.write(','.join(str(e) for e in header_exchange)+'\n')
 
 # Get ticker data from coin market cap
-api = 'https://api.coinmarketcap.com/v1/ticker/?limit=200'
+api = 'https://api.coinmarketcap.com/v1/ticker/?limit=400'
 row_count = 0
 resp = requests.get(url=api)
 data = json.loads(resp.text)
@@ -89,3 +89,18 @@ print('Completed')
 file_ticker.close()
 file_historical.close()
 file_exchange.close()
+print('Github Push')
+# github push
+repo_dir = ''
+repo = Repo(repo_dir)
+file_list = [
+    'ticker.csv',
+    'historical_price.csv',
+    'exchange.csv'
+]
+commit_message = 'Add simple regression analysis'
+repo.index.add(file_list)
+repo.index.commit(commit_message)
+origin = repo.remote('origin')
+origin.push()
+print('Github Push Finished')
