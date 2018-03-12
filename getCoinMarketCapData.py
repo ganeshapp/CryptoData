@@ -20,16 +20,19 @@ sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %
 file_ticker = open('ticker.csv', 'w')
 file_historical = open('historical_price.csv', 'w')
 file_exchange= open('exchange.csv', 'w')
+file_gecko = open('gecko.csv', 'w')
 
 # All the headers
 header_ticker = ['id','name','symbol','rank','price','day_volume','market_cap','p_day_vol','available_supply','total_supply','p_tot_supply','max_supply','p_max_supply','p_change_hour','p_change_day','p_change_week','last_updated','load_date']
 header_historical = ['id','date','open','high','low','close','volume','market_cap']
 header_exchange = ['id','exchange_name','exchange_pair','volume(24h)','price','volume(%)']
+header_gecko = ['name', 'symbol', 'liquidity', 'dev_score', 'community_score', 'public_interest_score', 'total_score','report_date']
 
 # Write headers into files
 file_ticker.write(','.join(str(e) for e in header_ticker)+'\n')
 file_historical.write(','.join(str(e) for e in header_historical)+'\n')
 file_exchange.write(','.join(str(e) for e in header_exchange)+'\n')
+file_gecko.write(','.join(str(e) for e in header_gecko) + '\n')
 
 # Get ticker data from coin market cap
 api = 'https://api.coinmarketcap.com/v1/ticker/?limit=400'
@@ -84,6 +87,24 @@ for x in data:
         row_exchange = [id, data_exchange[0], data_exchange[1], data_exchange[2].replace("\n",'').replace('$','').replace(',',''),data_exchange[3].replace("\n",'').replace(',', '').replace('$',''),float(data_exchange[4] or 0.0)/100.0 ]
         file_exchange.write(','.join(str(e) for e in row_exchange) + '\n')
 
+#Coin Gecko Scores for Coins data
+gecko_data_url = 'https://www.coingecko.com/en/coins/all'
+gecko_page = requests.get(gecko_data_url)
+gecko_tree = html.fromstring(gecko_page.content)
+gecko_data = gecko_tree.xpath(
+    '//td/div[@class="coin-detail"]/div[@class="coin-content"]/a/span[@class="coin-content-name"]/text()|//td/div[@class="coin-detail"]/div[@class="coin-content"]/a/span[@class="coin-content-symbol"]/text()|//td[@class="td-liquidity_score lit"]/a/span/text()|//td[@class="td-developer_score dev"]/div/text()|//td[@class="td-community_score community"]/div/text()|//td[@class="td-public_interest_score pb-interest"]/div/text()|//td[@class="total"]/div/text()')
+print(gecko_data)
+
+gecko_data_table = np.reshape(np.array(gecko_data), (-1, 7))
+
+for data_gecko in gecko_data_table:
+    row_gecko = [data_gecko[0], data_gecko[1], data_gecko[2].replace("\n", '').replace('$', '').replace(',', ''),
+                    float(data_gecko[3].replace("\n", '').replace(',', '').replace('%', '') or 0.0) / 100.0,
+                    float(data_gecko[4].replace("\n", '').replace(',', '').replace('%', '') or 0.0) / 100.0,
+                    float(data_gecko[5].replace("\n", '').replace(',', '').replace('%', '') or 0.0) / 100.0,
+                    float(data_gecko[6].replace("\n", '').replace(',', '').replace('%', '') or 0.0) / 100.0,
+                    sysdate]
+    file_gecko.write(','.join(str(e) for e in row_gecko) + '\n')
 
 print('Completed')
 file_ticker.close()
@@ -96,9 +117,10 @@ repo = Repo(repo_dir)
 file_list = [
     'ticker.csv',
     'historical_price.csv',
-    'exchange.csv'
+    'exchange.csv',
+    'gecko.csv'
 ]
-commit_message = 'Add simple regression analysis'
+commit_message = 'Updated Data Files'
 repo.index.add(file_list)
 repo.index.commit(commit_message)
 origin = repo.remote('origin')
