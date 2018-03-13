@@ -11,7 +11,7 @@ sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %
 
 file_cal = open('coin_calendar.csv', 'w')
 
-header_cal = ['event_date', 'name', 'symbol', 'added_on', 'description', 'report_date']
+header_cal = ['event_date', 'name', 'symbol', 'added_on', 'event_name','description', 'report_date']
 
 file_cal.write(','.join(str(e) for e in header_cal) + '\n')
 
@@ -21,18 +21,19 @@ cal_page = requests.get(cal_data_url)
 cal_tree = html.fromstring(cal_page.content)
 # cal_data = cal_tree.xpath('//div[@class="content-box-general"]/h5/strong/text()|//div[@class="content-box-general"]/div[@class="content-box-info"]/p/text()|//div[@class="content-box-general"]/div[@class="content-box-info"]/a/attribute::href')
 cal_data = cal_tree.xpath(
-    '//div[@class="content-box-general"]/h5/strong/text()|//div[@class="content-box-general"]/div[@class="content-box-info"]/p/text()')
+    '//div[@class="content-box-general"]/h5/strong/text()|//div[@class="content-box-general"]/h5/text()|//div[@class="content-box-general"]/div[@class="content-box-info"]/p/text()')
 # print(cal_data)
-cal_data_table = np.reshape(np.array(cal_data), (-1, 5))
+cal_data_table = np.reshape(np.array(cal_data), (-1, 11))
 for data_cal in cal_data_table:
     event_date = datetime.datetime.strptime(data_cal[0], "%d %B %Y").date()
     added_date = datetime.datetime.strptime(
-        data_cal[2].replace("\n", '').replace(',', '').replace('(Added ', '').replace(')', ''), "%d %B %Y").date()
+        data_cal[8].replace("\n", '').replace(',', '').replace('(Added ', '').replace(')', ''), "%d %B %Y").date()
     row_cal = [event_date,
-               data_cal[1].replace("\n", '').strip().split('(', 1)[0].strip(),
-               data_cal[1].replace("\n", '').split('(', 1)[1].split(')')[0],
+               data_cal[4].replace("\n", '').strip().split('(', 1)[0].strip(),
+               data_cal[4].replace("\n", '').split('(', 1)[1].split(')')[0],
                added_date,
-               data_cal[3].replace("\n", '').replace("\r", '').strip().replace(",", '').replace('"', ''),
+               data_cal[6].replace("\n", '').replace("\r", '').strip().replace(",", '').replace('"', ''),
+               data_cal[9].replace("\n", '').replace("\r", '').strip().replace(",", '').replace('"', ''),
                # 'https://coinmarketcal.com'+data_cal[4].replace("\n", '').strip(),
                # data_cal[5].replace("\n", '').strip(),
                sysdate]
@@ -50,19 +51,20 @@ while i < int(page_data[0].split('=', -1)[3], 0):
     cal_page = requests.get(cal_data_url)
     cal_tree = html.fromstring(cal_page.content)
     cal_data = cal_tree.xpath(
-        '//div[@class="content-box-general"]/h5/strong/text()|//div[@class="content-box-general"]/div[@class="content-box-info"]/p/text()')
+        '//div[@class="content-box-general"]/h5/strong/text()|//div[@class="content-box-general"]/h5/text()|//div[@class="content-box-general"]/div[@class="content-box-info"]/p/text()')
     # print(cal_data)
     # print(len(cal_data))
-    cal_data_table = np.reshape(np.array(cal_data), (-1, 5))
+    cal_data_table = np.reshape(np.array(cal_data), (-1, 11))
     for data_cal in cal_data_table:
         event_date = datetime.datetime.strptime(data_cal[0], "%d %B %Y").date()
         added_date = datetime.datetime.strptime(
-            data_cal[2].replace("\n", '').replace(',', '').replace('(Added ', '').replace(')', ''), "%d %B %Y").date()
+            data_cal[8].replace("\n", '').replace(',', '').replace('(Added ', '').replace(')', ''), "%d %B %Y").date()
         row_cal = [event_date,
-                   data_cal[1].replace("\n", '').strip().split('(', 1)[0].strip(),
-                   data_cal[1].replace("\n", '').split('(', 1)[1].split(')')[0],
+                   data_cal[4].replace("\n", '').strip().split('(', 1)[0].strip(),
+                   data_cal[4].replace("\n", '').split('(', 1)[1].split(')')[0],
                    added_date,
-                   data_cal[3].replace("\n", '').replace("\r", '').strip().replace(",", '').replace('"', ''),
+                   data_cal[6].replace("\n", '').replace("\r", '').strip().replace(",", '').replace('"', ''),
+                   data_cal[9].replace("\n", '').replace("\r", '').strip().replace(",", '').replace('"', ''),
                    sysdate]
         file_cal.write(','.join(str(e) for e in row_cal) + '\n')
         # print(','.join(str(e) for e in row_cal) + '\n')
