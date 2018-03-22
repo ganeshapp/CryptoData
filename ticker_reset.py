@@ -48,7 +48,7 @@ file_ticker.close()
 repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
 file_list = [
-    'ticker.csv'
+    '/home/gapp/CryptoData/ticker.csv'
 ]
 commit_message = 'reset ticker file'
 repo.index.add(file_list)
