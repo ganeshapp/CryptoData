@@ -42,7 +42,7 @@ repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
 print(repo)
 file_list = [
-    '/home/gapp/CryptoData/ticker.csv'
+    'ticker.csv'
 ]
 commit_message = 'Update ticker file'
 repo.index.add(file_list)
