@@ -11,7 +11,7 @@ from git import Repo
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
 
 # All the Files
-file_historical = open('/home/gapp/CryptoData/historical_price.csv', 'w')
+file_historical = open('~/CryptoData/historical_price.csv', 'w')
 
 # All the headers
 header_historical = ['id', 'date', 'open', 'high', 'low', 'close', 'volume', 'market_cap']
@@ -51,10 +51,10 @@ for x in data:
 
 file_historical.close()
 # github push
-repo_dir = '/home/gapp/CryptoData/'
+repo_dir = '~/CryptoData/'
 repo = Repo(repo_dir)
 file_list = [
-    '/home/gapp/CryptoData/historical_price.csv'
+    '~/CryptoData/historical_price.csv'
 ]
 commit_message = 'Reset Historical Data'
 repo.index.add(file_list)

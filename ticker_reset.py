@@ -7,7 +7,7 @@ from git import Repo
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
 
 # All the Files
-file_ticker = open('/home/gapp/CryptoData/ticker.csv', 'w')
+file_ticker = open('~/CryptoData/ticker.csv', 'w')
 
 # All the headers
 header_ticker = ['id', 'name', 'symbol', 'rank', 'price', 'day_volume', 'market_cap', 'available_supply',
@@ -45,10 +45,10 @@ for x in data:
     # Historical Data
 file_ticker.close()
 # github push
-repo_dir = '/home/gapp/CryptoData/'
+repo_dir = '~/CryptoData/'
 repo = Repo(repo_dir)
 file_list = [
-    '/home/gapp/CryptoData/ticker.csv'
+    '~/CryptoData/ticker.csv'
 ]
 commit_message = 'reset ticker file'
 repo.index.add(file_list)
