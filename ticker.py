@@ -38,7 +38,7 @@ for x in data:
 file_ticker.close()
 print("finish loading")
 # github push
-repo_dir = ''
+repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
 file_list = [
     'ticker.csv'
