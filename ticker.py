@@ -40,6 +40,7 @@ print("finish loading")
 # github push
 repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
+print(repo)
 file_list = [
     '/home/gapp/CryptoData/ticker.csv'
 ]
