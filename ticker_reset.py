@@ -7,7 +7,7 @@ from git import Repo
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
 
 # All the Files
-file_ticker = open('ticker.csv', 'w')
+file_ticker = open('/home/gapp/CryptoData/ticker.csv', 'w')
 
 # All the headers
 header_ticker = ['id', 'name', 'symbol', 'rank', 'price', 'day_volume', 'market_cap', 'available_supply',
