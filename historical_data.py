@@ -11,13 +11,7 @@ from git import Repo
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
 
 # All the Files
-file_historical = open('historical_price.csv', 'w')
-
-# All the headers
-header_historical = ['id', 'date', 'open', 'high', 'low', 'close', 'volume', 'market_cap']
-
-# Write headers into files
-file_historical.write(','.join(str(e) for e in header_historical) + '\n')
+file_historical = open('historical_price.csv', 'a')
 
 # Get ticker data from coin market cap
 api = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
@@ -29,8 +23,9 @@ for x in data:
     # Ticker Data
     id = x["id"]
     # Historical Data
-    historical_data_url = 'https://coinmarketcap.com/currencies/' + id + '/historical-data/?start=20100101&end=' + (datetime.datetime.fromtimestamp(
-        int(time.time())) - timedelta(days=2)).strftime('%Y%m%d')
+    historical_data_url = 'https://coinmarketcap.com/currencies/' + id + '/historical-data/?start=' + (datetime.datetime.fromtimestamp(
+        int(time.time())) - timedelta(days=1)).strftime('%Y%m%d') + '&end=' + (datetime.datetime.fromtimestamp(
+        int(time.time())) - timedelta(days=1)).strftime('%Y%m%d')
     page = requests.get(historical_data_url)
     tree = html.fromstring(page.content)
     historical_data = tree.xpath('//td/text()')
@@ -47,7 +42,7 @@ for x in data:
                            int(data_historical[6].replace('-', '').replace(',', '') or 0)]
             file_historical.write(','.join(str(e) for e in row_history) + '\n')
     except:
-        print("Unexpected error")
+        print("Unexpected error", id)
 
 file_historical.close()
 # github push
@@ -56,9 +51,8 @@ repo = Repo(repo_dir)
 file_list = [
     'historical_price.csv'
 ]
-commit_message = 'Reset Historical Data'
+commit_message = 'Update Historical Data'
 repo.index.add(file_list)
 repo.index.commit(commit_message)
 origin = repo.remote('origin')
 origin.push()
-print('Github Push Finished')

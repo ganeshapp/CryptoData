@@ -14,7 +14,6 @@ api = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
 row_count = 0
 resp = requests.get(url=api)
 data = json.loads(resp.text)
-print("start loading")
 for x in data:
     # Ticker Data
     id = x["id"]
@@ -36,11 +35,9 @@ for x in data:
     file_ticker.write(','.join(str(e) for e in row_ticker) + '\n')
     # Historical Data
 file_ticker.close()
-print("finish loading")
 # github push
 repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
-print(repo)
 file_list = [
     '/home/gapp/CryptoData/ticker.csv'
 ]
@@ -49,4 +46,3 @@ repo.index.add(file_list)
 repo.index.commit(commit_message)
 origin = repo.remote('origin')
 origin.push()
-print("finish gitpush")
