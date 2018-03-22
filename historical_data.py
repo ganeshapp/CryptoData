@@ -11,7 +11,7 @@ from git import Repo
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
 
 # All the Files
-file_historical = open('~/CryptoData/historical_price.csv', 'a')
+file_historical = open('/home/gapp/CryptoData/historical_price.csv', 'a')
 
 # Get ticker data from coin market cap
 api = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
@@ -46,10 +46,10 @@ for x in data:
 
 file_historical.close()
 # github push
-repo_dir = '~/CryptoData/'
+repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
 file_list = [
-    '~/CryptoData/historical_price.csv'
+    '/home/gapp/CryptoData/historical_price.csv'
 ]
 commit_message = 'Update Historical Data'
 repo.index.add(file_list)
