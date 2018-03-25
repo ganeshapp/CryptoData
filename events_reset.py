@@ -2,6 +2,7 @@ import json, requests
 import datetime
 import time
 from git import Repo
+import ast
 
 # Get Load Date
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
@@ -48,12 +49,12 @@ while i<100:
                 positive_vote_count = x["positive_vote_count"]
                 percentage = x["percentage"]
                 can_occur_before = x["can_occur_before"]
-                coins = json.loads(str(x["coins"]).replace("'",'"'))
+                coins = json.loads(json.dumps(ast.literal_eval(str(x["coins"]))))
                 for y in coins:
                     coin_id = y["id"]
                     coin_name = y["name"]
                     coin_symbol = y["symbol"]
-                    categories = json.loads(str(x["categories"]).replace("'",'"'))
+                    categories = json.loads(json.dumps(ast.literal_eval(str(x["categories"]))))
                     for z in categories:
                         category_id = z["id"]
                         category_name = z["name"]
