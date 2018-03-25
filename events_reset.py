@@ -25,7 +25,7 @@ authApi = 'https://api.coinmarketcal.com/oauth/v2/token?grant_type=client_creden
 resp = requests.get(url=authApi)
 data = json.loads(resp.text)
 access_token = data["access_token"]
-i=19
+i=0
 while i<100:
     i = i + 1
     try:
