@@ -3,6 +3,10 @@ import datetime
 import time
 from git import Repo
 import ast
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 # Get Load Date
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
@@ -38,12 +42,12 @@ while i<100:
         for x in data:
             try:
                 id = x["id"]
-                title = x["title"]
+                title = x["title"].replace('\n', '').replace(',', '').replace('\r', '').replace('"', '').replace("'", '').strip()
                 date_event = x["date_event"].split('T', 1)[0]
                 created_date = datetime.datetime.strptime(x["created_date"].split('T', 1)[0] +' '+ x["created_date"].split('T', 1)[1].split('+', 1)[0], '%Y-%m-%d %H:%M:%S')
-                description = str(x["description"] or '').replace('\n', '').replace(',', '').replace('\r', '').replace('"', '').strip()
+                description = str(x["description"] or '').replace('\n', '').replace(',', '').replace('\r', '').replace('"', '').replace("'", '').strip()
                 proof = x["proof"]
-                source = x["source"]
+                source = x["source"].split(',', 1)[0]
                 is_hot = x["is_hot"]
                 vote_count = x["vote_count"]
                 positive_vote_count = x["positive_vote_count"]
