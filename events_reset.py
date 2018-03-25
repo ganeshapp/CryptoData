@@ -7,7 +7,7 @@ from git import Repo
 sysdate = datetime.datetime.fromtimestamp(int(time.time())).strftime('%Y-%m-%d %H:%M:%S')
 
 # All the Files
-file_events = open('events.csv', 'w')
+file_events = open('/home/gapp/CryptoData/events.csv', 'w')
 
 # All the headers
 header_events = ['id','coin_id','coin_name', 'coin_symbol', 'date_event', 'created_date', 'title', 'description', 'category_id', 'category_name', 'proof', 'source', 'is_hot', 'vote_count', 'positive_vote_count', 'percentage', 'can_occur_before', 'load_date']
@@ -70,10 +70,10 @@ while i<100:
 
 file_events.close()
 # github push
-repo_dir = ''
+repo_dir = '/home/gapp/CryptoData/'
 repo = Repo(repo_dir)
 file_list = [
-    'events.csv'
+    '/home/gapp/CryptoData/events.csv'
 ]
 commit_message = 'Reset Events Data'
 repo.index.add(file_list)

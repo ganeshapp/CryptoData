@@ -27,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testing.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testing.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ticker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ticker.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,8 +54,8 @@
       <file leaf-file-name="historical_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/historical_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="42" column="78" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="78" />
+            <state relative-caret-position="195">
+              <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="46" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -105,11 +96,21 @@
       <file leaf-file-name="events_reset.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/events_reset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+            <state relative-caret-position="1080">
+              <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getCoinMarketCalData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getCoinMarketCalData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -517,6 +518,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -574,6 +576,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -648,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getCoinMarketCalData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getCoinMarketCapData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
@@ -714,16 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/historical_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="42" column="78" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/getCoinMarketCalPastData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -766,10 +752,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/getCoinMarketCalData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/historical_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/events_reset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        <state relative-caret-position="1080">
+          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
