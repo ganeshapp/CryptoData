@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed9acca-acb5-48df-a102-87bd403ad243" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/events_reset.py" afterPath="$PROJECT_DIR$/events_reset.py" />
       <change beforePath="$PROJECT_DIR$/getCoinMarketCapData.py" afterPath="$PROJECT_DIR$/getCoinMarketCapData.py" />
       <change beforePath="$PROJECT_DIR$/github_upload.py" afterPath="$PROJECT_DIR$/github_upload.py" />
@@ -97,8 +96,8 @@
       <file leaf-file-name="events_reset.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/events_reset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+            <state relative-caret-position="209">
+              <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -773,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/events_reset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+        <state relative-caret-position="209">
+          <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>

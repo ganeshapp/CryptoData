@@ -47,7 +47,7 @@ while i<100:
                 created_date = datetime.datetime.strptime(x["created_date"].split('T', 1)[0] +' '+ x["created_date"].split('T', 1)[1].split('+', 1)[0], '%Y-%m-%d %H:%M:%S')
                 description = str(x["description"] or '').replace('\n', '').replace(',', '').replace('\r', '').replace('"', '').replace("'", '').strip()
                 proof = x["proof"]
-                source = x["source"].split(',', 1)[0]
+                source = str(x["source"] or '').split(',', 1)[0]
                 is_hot = x["is_hot"]
                 vote_count = x["vote_count"]
                 positive_vote_count = x["positive_vote_count"]
